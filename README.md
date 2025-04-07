@@ -50,16 +50,6 @@
 
 <div align="center">
 
-## 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=jungho-Kang&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jungho-Kang&theme=radical" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 📂 My Work  
 <a href="https://buttercup-lyric-4ee.notion.site/s-Code-Story-19f6cf890caa80118725cc8758d33945?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
