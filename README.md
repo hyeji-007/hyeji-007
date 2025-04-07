@@ -28,7 +28,7 @@ HTML5, CSS3, Git, Docker, HeidiSQL, Swagger, MyBatis, JPA 등 다양한 기술�
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/MyBatis-0052CC?style=for-the-badge&logo=mybatis&logoColor=white" />
 
 ### 💾 Database  
