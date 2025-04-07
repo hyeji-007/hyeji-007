@@ -43,7 +43,6 @@ HTML5, CSS3, Git, Docker, HeidiSQL, Swagger, MyBatis, JPA 등 다양한 기술�
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/HeidiSQL-636C72?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 ### 🎨 Frontend (기본 지식)  
