@@ -65,6 +65,6 @@
 <div align="center">
 
 ## 📂 My Work  
-<a href="https://buttercup-lyric-4ee.notion.site/s-Code-Story-19f6cf890caa80118725cc8758d33945?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://buttercup-lyric-4ee.notion.site/s-Code-Story-19f6cf890caa80118725cc8758d33945?pvs=4"><img src="[https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white](https://www.notion.so/Hi-I-m-Hyeji-1786d625693f80199719e73e4401a70e?pvs=4)" /></a>
 
 </div>
