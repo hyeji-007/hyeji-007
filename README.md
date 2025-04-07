@@ -54,18 +54,9 @@
 
 <div align="center">
 
-<h2>📈 GitHub Stats</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hyeji-007&show_icons=true&theme=tokyonight&hide=issues" width="400px" height="200px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeji-007&theme=tokyonight" width="400px" height="200px"/>
-    </td>
-  </tr>
-</table>
+## 📈 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=hyeji-007&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeji-007&theme=radical" width="48%" />
 
 </div>
 
