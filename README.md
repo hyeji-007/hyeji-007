@@ -56,7 +56,7 @@
 
 ## 📈 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=hyeji-007&show_icons=true&theme=tokyonight&hide=issues" width="48%" height="200" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeji-007&theme=tokyonight" width="48%" height="200" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeji-007&theme=tokyonight" width="48%" height="180" />
 
 </div>
 
