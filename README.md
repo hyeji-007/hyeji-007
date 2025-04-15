@@ -58,3 +58,23 @@
 </a>
 
 </div>
+
+---
+<!-- :막대_차트: GitHub Stats -->
+<h3 align="center">:막대_차트: GitHub Stats</h3>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=hyeji-007&count_private=true&show_icons=true&locale=kr&hide=contribs,stars&card_width=400" alt="hyeji-007's GitHub stats" height="170" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji-007&hide=python&layout=compact&card_width=300" alt="hyeji-007's Top Langs" height="170" />
+      </a>
+    </td>
+  </tr>
+</table>
+
