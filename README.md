@@ -61,7 +61,7 @@
 
 ---
 <!-- :막대_차트: GitHub Stats -->
-<h3 align="center">:막대_차트: GitHub Stats</h3>
+<h3 align="center">막대_차트: GitHub Stats</h3>
 <table align="center">
   <tr>
     <td>
